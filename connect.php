@@ -1,8 +1,8 @@
 <?php
-$host = '127.0.0.1';
-$db   = 'chat';
-$user = 'NetWork';
-$pass = 'NetWork';
+$host = 'remotemysql.com:3306';
+$db   = 'K2WW6WHUnj';
+$user = 'K2WW6WHUnj';
+$pass = 'OKfQzWl1UC';
 
 $dsn = "mysql:host=$host;dbname=$db";
 $options = [
